@@ -25,5 +25,7 @@ h1{
 
 ul {
   text-align: center; horizontal;
-  list-style-position: inside;
+  list-style-position: none;
+  margin: 0;
+  padding: 0;
 }
